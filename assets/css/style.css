@@ -40,7 +40,7 @@ body {
 }
 
 #hero-black { 
-    background: url(../images/SPCE_Volvo.png);
+    background: url(../images/SP-CE-Color2.png);
     position: relative;
     flex-direction: column;
     justify-content: flex-start;   
@@ -75,14 +75,14 @@ body {
 .heading-h2 {
     padding-top: 35px;
     color: #242424;
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
 }
 
 .heading-h3 { 
     padding-top: 20px;
     color: #242424;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
     padding-bottom: 12px;
     font-weight: 300;
@@ -91,34 +91,22 @@ body {
  h4 { 
     padding-top: 25px;
     color: #cfcece;
-    font-size: 11px;
+    font-size: 13px;
     text-align: center;
     padding-bottom: 12px;
     font-weight: 300;
 }
 
-.calender-btn {
-    color: #000;
-    padding: 8px;
-    border-radius: 8px;
-    font-size: 14px;
-    font-weight: 700;
-    margin: 25px 0;
-    background-color: #F4F7F8;
-    height: 48px;
-    width: 161px;
-}
-
-.space-btn {
+.verify-btn {
     color: #fff;
     padding: 8px;
     border-radius: 8px;
     font-size: 14px;
     font-weight: 700;
     margin: 25px 0;
-    background-color: #242424;
+    background-color: #000;
     height: 48px;
-    width: 130px;
+    width: 135px;
 }
 
 button:hover {
