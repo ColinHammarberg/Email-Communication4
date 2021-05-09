@@ -75,8 +75,9 @@ body {
 .heading-h2 {
     padding-top: 35px;
     color: #242424;
-    font-size: 22px;
+    font-size: 19px;
     text-align: center;
+    font-weight: 700;
 }
 
 .heading-h3 { 
